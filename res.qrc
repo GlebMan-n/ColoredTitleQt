@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>titleIcon.png</file>
+        <file>odt_24_8.png</file>
+        <file>odt_16_8.png</file>
+        <file>odt_32_8.png</file>
+        <file>odt_48_8.png</file>
+        <file>close.png</file>
+        <file>close_hover.png</file>
+        <file>close_pressed.png</file>
+    </qresource>
+</RCC>
