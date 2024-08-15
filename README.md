@@ -1,1 +1,1 @@
-Frameless qmain window with custom title bar for Gnome and CentOS. Move and resize methods was overrided. You can move it by mouse press, change size with corners and sides. Double click on title bar also works.
+Frameless qmain window with custom title bar for Gnome and CentOS. Move and resize methods were overwritten. You can move it by mouse press, change size with corners and sides. Double click on title bar also works.
